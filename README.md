@@ -22,7 +22,7 @@ So, ideally, the best neighborhood will have:
 
 <h2>Environments Used </h2>
 
-- <b> macOS version 12</b> (21H2)
+- <b> macOS version 12</b>
 - Jupyter Notebook
 
 <h2>Program walk-through:</h2>
