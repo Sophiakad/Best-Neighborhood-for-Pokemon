@@ -38,19 +38,23 @@ Metric 1 - Determine the neighborhood with the least number of police reports:  
 <br />
 <br />
 Metric 2 - Determine the neighborhood with the fewest children: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qxgFijh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LqaYvXt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Metric 3 - Determine the neighborhood with the biggest park:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KjiTFnN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LqaYvXt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Ranking system:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+After each metric, points were assigned with a running total. This will be used at the end to determine the winner
+<br/>
+<img src= "https://i.imgur.com/im7usZO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Conclusion:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qzVEibn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
